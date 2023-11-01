@@ -1,0 +1,13 @@
+numpy
+scipy
+opencv-python
+glfw
+PyGLM
+PyOpenGL
+imgui
+tqdm
+torch
+mitsuba
+drjit
+matplotlib
+open3d
